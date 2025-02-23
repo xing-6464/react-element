@@ -3,10 +3,10 @@ hero:
   title: React 组件库
   description: R Element 是一个基于 React 的 UI 组件库，提供了丰富的基础组件和业务组件，帮助开发者快速搭建出高质量的页面。
   actions:
-    - text: Hello
+    - text: 开始使用
       link: /
-    - text: World
-      link: /
+    - text: 组件库
+      link: /components/button
 features:
   - title: 全
     emoji: 💎
